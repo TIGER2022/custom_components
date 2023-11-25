@@ -1,0 +1,9 @@
+send:
+  description: Write to a 485 bus.
+  fields:
+    bus:
+      description: The name of the 485 bus
+      example: my_485bus
+    command: 
+      description: hex string bytes send to the bus
+      example: 01050001FF00DDFA

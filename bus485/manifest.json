@@ -1,0 +1,8 @@
+{
+  "domain": "bus485",
+  "name": "bus485",
+  "documentation": "",
+  "requirements": ["pyserial>=3.4"],
+  "dependencies": [],
+  "codeowners": []
+}
